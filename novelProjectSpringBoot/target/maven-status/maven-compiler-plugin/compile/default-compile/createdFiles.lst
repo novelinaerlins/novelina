@@ -1,0 +1,5 @@
+novel\uas\TabunganApplication.class
+novel\uas\repository\TabunganRepository.class
+novel\uas\controller\TabunganController.class
+novel\uas\DAO\TabunganDAO.class
+novel\uas\model\TabunganModel.class
